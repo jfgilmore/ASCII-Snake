@@ -24,6 +24,7 @@
     <ProjectGuid>{c1d70c09-0cc3-482c-8ce2-9468a97286cc}</ProjectGuid>
     <RootNamespace>Snake</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ASCII-Snake</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
